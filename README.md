@@ -1,0 +1,1 @@
+READ ALL .md files before you start doing all your activities. After finishing all the activities in each lesson from HTML-BASICS to CSS-BASICS you can do the final activity.
