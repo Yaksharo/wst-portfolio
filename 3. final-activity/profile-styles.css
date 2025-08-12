@@ -1,0 +1,152 @@
+/* Profile Card Project - Starter CSS */
+/* Complete this CSS file to create your professional profile card */
+
+/* STEP 1: Reset and Base Styles */
+* {
+    /* Add your box-sizing and reset styles here */
+}
+
+body {
+    /* Set up the page background and font family */
+    /* Hint: Try a gradient background! */
+}
+
+/* STEP 2: Main Container */
+.profile-container {
+    /* Center the card and add styling */
+    /* Properties to consider: max-width, margin, background, border-radius, box-shadow */
+}
+
+/* STEP 3: Header Section */
+.profile-header {
+    /* Style the top section with the name and title */
+    /* Consider: background color/gradient, text alignment, padding */
+}
+
+.profile-image {
+    /* Center and style the image placeholder */
+}
+
+.image-placeholder {
+    /* Create a circular placeholder for the profile image */
+    /* Hint: Use border-radius: 50% for a circle */
+}
+
+.profile-name {
+    /* Style the main name heading */
+}
+
+.profile-title {
+    /* Style the professional title */
+}
+
+/* STEP 4: Content Section */
+.profile-content {
+    /* Add padding and organize the content */
+}
+
+.about-section,
+.skills-section, 
+.contact-section {
+    /* Add spacing between sections */
+}
+
+/* STEP 5: Section Headings */
+h2 {
+    /* Style all section headings consistently */
+    /* Consider: color, font-size, margin, decorative underlines */
+}
+
+/* STEP 6: About Section */
+.about-text {
+    /* Style the bio paragraph */
+}
+
+/* STEP 7: Skills Section */
+.skills-grid {
+    /* Layout the skills in a grid or columns */
+    /* Hint: Try display: flex or display: grid */
+}
+
+.skill-item {
+    /* Style individual skill categories */
+}
+
+.skill-item h3 {
+    /* Style the skill category headings */
+}
+
+.skill-item ul {
+    /* Style the skills lists */
+}
+
+.skill-item li {
+    /* Style individual skill items */
+}
+
+/* STEP 8: Contact Section */
+.contact-info {
+    /* Style the contact information */
+}
+
+.contact-item {
+    /* Style individual contact items */
+}
+
+/* STEP 9: Action Buttons */
+.action-buttons {
+    /* Center and space the buttons */
+}
+
+.btn {
+    /* Base button styling */
+    /* Properties: padding, border, border-radius, font-size, cursor, transition */
+}
+
+.btn-primary {
+    /* Primary button style (main action) */
+}
+
+.btn-secondary {
+    /* Secondary button style */
+}
+
+.btn-outline {
+    /* Outline button style */
+}
+
+/* STEP 10: Hover Effects */
+.btn:hover {
+    /* Add hover effects to buttons */
+}
+
+.profile-container:hover {
+    /* Optional: Add subtle hover effect to the whole card */
+}
+
+/* STEP 11: Responsive Design (BONUS) */
+@media (max-width: 600px) {
+    /* Adjust styles for mobile devices */
+    
+    .profile-container {
+        /* Adjust container for smaller screens */
+    }
+    
+    .skills-grid {
+        /* Stack skills vertically on mobile */
+    }
+    
+    .btn {
+        /* Make buttons full width on mobile */
+    }
+}
+
+/* 
+DESIGN TIPS:
+- Use consistent colors throughout your design
+- Add subtle shadows for depth
+- Use transitions for smooth hover effects  
+- Consider using CSS custom properties (variables) for colors
+- Test your design on different screen sizes
+- Don't be afraid to experiment with creative touches!
+*/
